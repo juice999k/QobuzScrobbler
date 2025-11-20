@@ -1,0 +1,10 @@
+# QScrobbler Album Blacklist
+# --------------------------
+# Add album names to ignore (one per line)
+# Lines starting with # are comments
+# Matching is case-insensitive
+
+
+# ONLY EXAMPLES FROM PBC, YOU CAN PUT ANY ALBUM
+Mollyworld
+Narcissist
