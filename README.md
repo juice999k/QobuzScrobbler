@@ -1,3 +1,27 @@
+<img width="500" height="500" alt="QScrobbler" src="https://github.com/user-attachments/assets/1bc92207-965f-41a1-ad0f-42254525c539" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # QScrobbler
 
 A lightweight Windows scrobbler for Qobuz that sends your listening history to Last.fm.
